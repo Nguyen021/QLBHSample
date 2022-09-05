@@ -11,3 +11,6 @@ D:\WorkSpace\QuanLyBanHang\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.Core
 D:\WorkSpace\QuanLyBanHang\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.dll
 D:\WorkSpace\QuanLyBanHang\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.pdb
 D:\WorkSpace\QuanLyBanHang\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.genruntimeconfig.cache
+D:\WorkSpace\QuanLyBanHang\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+D:\WorkSpace\QuanLyBanHang\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+D:\WorkSpace\QuanLyBanHang\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.CopyComplete
